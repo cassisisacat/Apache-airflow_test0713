@@ -50,7 +50,7 @@ ARG AIRFLOW_USER_HOME_DIR=/home/airflow
 # latest released version here
 ARG AIRFLOW_VERSION="3.3.0"
 
-ARG BASE_IMAGE="debian:bookworm-slim"
+ARG BASE_IMAGE=debian:12.15-slim
 ARG AIRFLOW_PYTHON_VERSION="3.13.14"
 
 # PYTHON_LTO: Controls whether Python is built with Link-Time Optimization (LTO).
