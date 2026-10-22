@@ -31,7 +31,7 @@
     "@guanmingchiu/sqlparser-ts": "^0.62.0",
     "@lezer/highlight": "^1.2.3",
     "@monaco-editor/react": "^4.7.0",
-    "@tanstack/react-query": "^5.101.2",
+    "@tanstack/react-query": "^5.104.0",
     "@tanstack/react-table": "^8.21.3",
     "@tanstack/react-virtual": "^3.14.5",
     "@visx/group": "^3.12.0",
