@@ -32,7 +32,7 @@
 #
 # Related: https://github.com/apache/airflow/issues/58337
 ARG PYTHON_LTO="true"
-ARG BASE_IMAGE="debian:bookworm-slim"
+ARG BASE_IMAGE=debian:12.15-slim
 
 ##############################################################################################
 # This is the script image where we keep all inlined bash scripts needed in other segments
